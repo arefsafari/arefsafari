@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arefsafari
-- 👀 I’m interested in Ai and machine intelligence.
-- 🌱 I’m currently working on a fuzzy-deep model to predicte the hihgh-order time-series uncertainty.
-- 💞️ I’m looking to collaborate on machine intelligence colleagues
+- 👀 I’m interested in AI and Machine Intelligence.
+- 🌱 I’m currently working on a Fuzzy-deep learning model to predicte the hihgh-order uncertainty in time-series.
+- 💞️ I’m looking to collaborate on Machine Intelligence colleagues
 - 📫 safari.aref@hotmail.com
 
 <!---
