@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arefsafari
-- 👀 I’m interested in AI and Machine Intelligence.
+- 👀 I’m interested in AI, Machine Intelligence and Computational Mathematics.
 - 🌱 I developed a Fuzzy-deep learning model to handle the high-order uncertainty in time-series prediction.
 - 💞️ I’m looking to collaborate with Machine Intelligence colleagues
 - 📫 safari.aref@hotmail.com
